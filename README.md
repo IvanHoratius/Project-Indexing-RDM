@@ -5,7 +5,7 @@
 bash
 $ sudo apt install python3-pip
 
-![Image1](D:/Semester 5/Rekayasa Data Mining/Image/1.png)
+![Image1](/Image/1.png)
 
 ### 2. Cara Menjalankan Program :
 1.  $ cd ./image-search-engine
