@@ -2,10 +2,8 @@
 
 ## Image-search-engine
 ### 1. Requirements :
-bash
 $ sudo apt install python3-pip
-
-![Image1](/Image/1.png)
+(Image/1.png)
 
 ### 2. Cara Menjalankan Program :
 1.  $ cd ./image-search-engine
