@@ -1,9 +1,18 @@
 # Project-Indexing-RDM
 
-1.Text-Image
-* Requirements
-  a.Sudo apt install python3-pip
-* Run Program
-  a.masuk ke file image-search-engine
-  ![Image](/Pictures/2.png)
-  b.install requirements.txt
+## Image-search-engine
+### 1. Requirements :
+bash
+$ sudo apt install python3-pip
+
+![Image1](/Image/1.png)
+
+### 2. Cara Menjalankan Program :
+1.  $ cd ./image-search-engine
+2.  $ pip install -r requirements.txt
+![Image1](/ScreenShot/3.png)
+3.  $ cd ./app
+4.  $ python index.py --dataset static/images --index index.csv 
+![Image1](/ScreenShot/4.png)
+5. Untuk melihat output dapat dari index.cvs
+![Image1](/ScreenShot/5.png)
