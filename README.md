@@ -3,18 +3,18 @@
 ## Image-search-engine
 ### 1. Requirements :
 
-$ sudo apt install python3-pip
+ install python3
 
 ![](Image/1.png)
 
 ### 2. Cara Menjalankan Program :
-1.  $ Masuk ke direktori image-search-engine
+1.   Masuk ke direktori image-search-engine
 ![](Image/2.png)
-2.  $ install requirement
+2.   install requirement
 ![](Image/3.png)
-3.  $ masuk ke direktori app
+3.   masuk ke direktori app
 ![](Image/4.png)
-4.  $ python index.py --dataset static/images --index index.csv 
+4.   python index.py --dataset static/images --index index.csv 
 ![](Image/5.png)
 5. Untuk melihat output dapat dari index.cvs
 ![](Image/10.PNG)
@@ -24,7 +24,7 @@ $ sudo apt install python3-pip
 ## Text-indexing
 ### 1. Requirements :
 
-$ install swish-e
+ install swish-e
 
 ![](Image/6.png)
 
